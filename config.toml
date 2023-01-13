@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://kirillp009.github.io/'
 languageCode = 'ru-ru'
 title = 'Gal Site'
 theme = 'ananke'
